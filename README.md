@@ -6,10 +6,10 @@ NCache is used by hundreds of companies all over the world in mission critical a
 
 ![NCache Users](http://www.alachisoft.com/images/customer-logos/customers-index.jpg)
 
-## Features:
+## Features
 
--   Publish/Subscribe (Pub/Sub) with Topic 
--   Cache CRUD operations
+- Publish/Subscribe (Pub/Sub) with Topic 
+- Cache CRUD operations
 -	Bulk CRUD operations
 -	Lock/Unlock cached items
 -	Item level event notifications
@@ -22,7 +22,6 @@ NCache is used by hundreds of companies all over the world in mission critical a
 -	NuGet Packages
 -	Runs in Microsoft Azure, Amazon, and any other Cloud platform
 
-
 ## Getting Started
 
 ### [Installation Guide](https://www.alachisoft.com/resources/docs/ncache/install-guide/)
@@ -31,18 +30,15 @@ Step-by-step guide about how to install NCache for Open Source edition, and to c
 ### [Admin Guide](https://www.alachisoft.com/resources/docs/ncache/admin-guide/)
 Perform administrative tasks on caches using configuration files for NCache Open Source edition.
 
-### [Programmers Guide](http://www.alachisoft.com/resources/docs/ncache/prog-guide/)
+### [Programmers Guide](https://www.alachisoft.com/resources/docs/ncache/prog-guide/)
 Use various features of NCache in .NET to develop high performance and scalable applications.
 
-### [Dockers Guide](https://www.alachisoft.com/resources/docs/ncache/getting-started-guide-docker/)
+### [Dockers Guide](https://www.alachisoft.com/resources/docs/ncache/install-guide/docker-overview.html)
 Docker image and Dockerfile with NCache environment to allow seamless building of NCache applications and managing cache clusters.
 
-
-
-## [Edition Comparison](http://www.alachisoft.com/ncache/edition-comparison.html)
+## [Edition Comparison](https://www.alachisoft.com/ncache/edition-comparison.html)
 Compare various editions available. Enterprise Edition vs Open Source Edition.
-
 
 ## License
 NCache Open Source is released under the Apache License, Version 2.0
-See more details at http://www.alachisoft.com/download-ncache.html#ncache
+See more details at https://www.alachisoft.com/download-ncache.html
