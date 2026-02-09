@@ -4,7 +4,7 @@ NCache is an extremely fast and scalable Open Source distributed cache for .NET 
 
 NCache is used by hundreds of companies all over the world in mission critical applications. See more details about [NCache](http://www.alachisoft.com/) at Alachisoft.
 
-![NCache Users](http://www.alachisoft.com/images/customer-logos/customers-index.jpg)
+<!-- ![NCache Users](http://www.alachisoft.com/images/customer-logos/customers-index.jpg) -->
 
 ## Features
 
